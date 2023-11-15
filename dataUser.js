@@ -1,6 +1,6 @@
 const User1 = {
     nama: "Udin",
-    umur: "20"
+    umur: "2"
 }
 
 const User2 = {
